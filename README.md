@@ -1,4 +1,4 @@
-# avaxLinkFeeds
+# AVALYNXLinkFeeds
 Using Chainlink Price Feeds on Avalanch
 
 ## Quickstart
