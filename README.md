@@ -4,7 +4,7 @@ Using Chainlink Price Feeds on Avalanch
 ## Quickstart
 1. Head over to [`remix`](https://remix.ethereum.org/)
 2. Create a new file
-3. Paste the code from `AvaxLinkFeeds.sol` into a new file in remix. 
+3. Paste the code from `AVALYNXLinkFeeds.sol` into a new file in remix. 
 4. Compile using `0.8.0` version of solidity or above. 
 5. Setup your Metamask to work with Avalanche:
 ```
