@@ -1,5 +1,5 @@
 # avaxLinkFeeds
-Using Chainlink Price Feeds on Avalanche. If you'd like to read the verbose version, check [out the blog.] (link is TBD)
+Using Chainlink Price Feeds on Avalanch
 
 ## Quickstart
 1. Head over to [`remix`](https://remix.ethereum.org/)
