@@ -1,5 +1,5 @@
 # AVALYNXLinkFeeds
-Using Chainlink Price Feeds on Avalanch
+Using Chainlink Price Feeds on Avalanche
 
 ## Quickstart
 1. Head over to [`remix`](https://remix.ethereum.org/)
